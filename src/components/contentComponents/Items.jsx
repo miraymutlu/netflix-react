@@ -7,7 +7,7 @@ import NotInterestedIcon from "@mui/icons-material/NotInterested";
 
 function Items() {
   return (
-    <div style={{ width: 280, height: 160 , position: 'relative'}} className=" bg-black relative text-black hover:text-white text-xs hover:text-base">
+    <div style={{ 'width': 280, 'height': 160 , 'position': 'relative'}} className=" bg-black relative text-black hover:text-white text-xs hover:text-base">
       <img
         src="https://cdn.milenio.com/uploads/media/2022/05/24/better-call-saul-netflix.jpg"
         alt=" "

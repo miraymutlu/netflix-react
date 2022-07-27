@@ -6,8 +6,8 @@ import Profile from "./headerComponents/Profile"
 const Header = () => {
   return (
     <div>
-      <nav class="bg-black top-0 absolute w-full">
-        <div class="px-5 py-0 flex items-center justify-between">
+      <nav className="bg-black top-0 absolute w-full">
+        <div className="px-5 py-0 flex items-center justify-between">
           <Logo />
           <Search />
           <Profile />
