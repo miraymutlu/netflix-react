@@ -1,0 +1,32 @@
+
+.container {
+  display: flex;
+}
+
+.item {
+  position: relative;
+  display: block;
+  flex: 1 1 0px;
+  transition: transform 450ms;
+}
+
+.container:focus-within .item,
+.container:hover .item {
+  transform: translateX(-25%);
+}
+
+.item:focus ~ .item,
+.item:hover ~ .item {
+  transform: translateX(25%);
+}
+
+.container .item:focus,
+.container .item:hover {
+  transform: scale(1.15);
+  z-index: 1;
+}
+
+.item img {
+  display: block;
+  max-width: 100%;
+}

@@ -9,7 +9,7 @@ function Gallery() {
         alt=" "
         className=" w-full pt-12 relative top-8"
       />
-      <div className="about w-2/5 absolute flex flex-col mx-10 my-20 top-40">
+      <div className="about w-2/5 absolute flex flex-col mx-10 my-20 sm:top-20 md:top-40 lg:top-80">
         <div className="font-bold text-white text-3xl">
           Love, Death &amp; Robots
         </div>

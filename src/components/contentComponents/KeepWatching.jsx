@@ -52,11 +52,13 @@ function ReactSimplyCarouselExample() {
     },
     {
       name: "sherlock",
-      imageURL: "https://upload.wikimedia.org/wikipedia/tr/4/40/Sherlock_%28TV%29.jpg",
+      imageURL:
+        "https://upload.wikimedia.org/wikipedia/tr/4/40/Sherlock_%28TV%29.jpg",
     },
     {
       name: "mindhunter",
-      imageURL: "https://media-cdn.t24.com.tr/media/library/2020/05/1590337991205-images-8-620-x-400.jpg",
+      imageURL:
+        "https://media-cdn.t24.com.tr/media/library/2020/05/1590337991205-images-8-620-x-400.jpg",
     },
     {
       name: "bir-baskadir",
@@ -79,9 +81,9 @@ function ReactSimplyCarouselExample() {
         "https://static.next-episode.net/tv-shows-images/huge/community.jpg",
     },
     {
-      name: "unbelievable",
+      name: "bir-baskadir",
       imageURL:
-        "https://olamovies.cfd/wp-content/uploads/2020/06/Unbelievable-2019-Season-1-S01-Complete-Google-Drive-Download.jpg",
+        "https://radyobilkent.com/assets/img/blogimg/birbaskadir-UTiT_cover.jpg",
     },
     {
       name: "when-they-see-us",

@@ -1,14 +1,15 @@
 import React from "react";
-
+import "./items.css"
 
 function Items(props) {
   return (
-    <div className="relative cursor-pointer border-4 border-black sm:h-40 md:h-120 lg:h-400">
-      <img
-        src={props.image.imageURL}
-        alt=" "
-        className="max-w-full"
-      />
+    <div className="container relative cursor-pointer border-4 border-black md:h-40 lg:h-60 xl:h-68">
+      <div className="item">
+        <img
+          src={props.image.imageURL}
+          alt=" "
+        />
+      </div>
     </div>
   );
 }
