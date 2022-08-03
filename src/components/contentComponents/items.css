@@ -1,3 +1,7 @@
+@import url('https://prayag17.github.io/JellySkin/default.css');
+h1 {
+  font-family: "Netflix Sans", sans-serif;
+}
 
 .container {
   display: flex;

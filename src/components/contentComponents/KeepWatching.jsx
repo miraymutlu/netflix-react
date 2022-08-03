@@ -98,10 +98,10 @@ function ReactSimplyCarouselExample() {
   ];
   return (
     <div className="m-10">
-      <h1 className="text-2xl font-medium text-white my-4">Keep Watching</h1>
+      <h1 className="text-2xl font-medium text-white my-4 font-sans-serif">Keep Watching</h1>
       <Slider {...settings}>
         {images.map((image, index) => (
-          <Items image={image} key={index} className="" />
+          <Items image={image} key={index} />
         ))}
       </Slider>
     </div>
