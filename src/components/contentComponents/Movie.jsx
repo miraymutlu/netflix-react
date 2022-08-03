@@ -1,15 +1,6 @@
 import Slider from "react-slick";
 import Items from "./Items";
-import axios from "axios";
-import {useEffect} from "react"
-
-async function getData() {     
-  const { data } = await axios.get('..../public/films.json');
-  this.setState({images: data})
-
-}
-
-function ReactSimplyCarouselExample() {
+function Movie(props) {
   const settings = {
     dots: true,
     infinite: false,
@@ -48,17 +39,17 @@ function ReactSimplyCarouselExample() {
       },
     ],
   };
-
+  
   return (
     <div className="m-10">
-      <h1 className="text-2xl font-medium text-white my-4 font-sans-serif">Keep Watching</h1>
+      <h1 className="text-2xl font-medium text-white my-4 font-sans-serif">{props.header}</h1>
       <Slider {...settings}>
-        {/* {getData.data.map((image, index) => (
-          <Items image={image} key={index} />
-        ))} */}
+        {props.data.map((image, index) => (
+          <Items image={image} key={index} className="" />
+        ))}
       </Slider>
     </div>
   );
 }
 
-export default ReactSimplyCarouselExample;
+export default Movie;

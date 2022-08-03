@@ -1,7 +1,7 @@
 import React from "react";
 import Buttons from "./Buttons";
 
-function About() {
+export default function About() {
   return (
     <div
       className="w-full md:h-[38rem] bg-contain bg-center bg-no-repeat"
@@ -26,5 +26,3 @@ function About() {
     </div>
   );
 }
-
-export default About;
