@@ -3,12 +3,12 @@ import Buttons from "./Buttons";
 
 function About() {
   return (
-    <div>
-      <img
-        src="https://frpnet.net/wp-content/uploads/2022/05/love-death-robots-3-sezon-fragmani-3.jpeg"
-        alt=" "
-        className=" w-full pt-12 relative top-8"
-      />
+    <div
+      className="w-full md:h-[38rem] bg-contain bg-center bg-no-repeat"
+      style={{
+        backgroundImage: `url("https://frpnet.net/wp-content/uploads/2022/05/love-death-robots-3-sezon-fragmani-3.jpeg")`,
+      }}
+    >
       <div className="about w-2/5 absolute flex flex-col mx-10 my-20 sm:top-20 md:top-40 lg:top-80">
         <div className="font-bold text-white text-3xl">
           Love, Death &amp; Robots
