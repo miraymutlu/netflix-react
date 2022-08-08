@@ -41,11 +41,11 @@ function Movie(props) {
   };
   
   return (
-    <div className="m-10">
+    <div className="m-10 h-50">
       <h1 className="text-2xl font-medium text-white my-4 font-sans-serif">{props.header}</h1>
       <Slider {...settings}>
         {props.data.map((image, index) => (
-          <Items image={image} key={index} className="" />
+          <Items image={image} key={index} />
         ))}
       </Slider>
     </div>

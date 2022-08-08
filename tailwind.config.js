@@ -5,12 +5,13 @@ module.exports = {
   ],
   theme: {
     screens:{
-      'xs': '200px',
+      'xs': '300px',
       'sm':'400px',
       'md':'624px',
-      'lg':'768px',
+      'lg':'767px',
       'xl':'992px',
       '2xl':'1200px',
+      '3xl':'1300px',
     }
   },
   plugins: [],
