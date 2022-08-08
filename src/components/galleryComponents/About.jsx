@@ -9,11 +9,11 @@ export default function About() {
         alt=" "
         className=" w-full pt-12 relative"
       />
-      <div className="about xs:w-3/5 w-2/5 absolute flex flex-col mx-10 my-20 xs:top-20 sm:top-22 md:top-24 lg:top-52">
-        <div className="font-bold text-white sm:text-md md:text-2xl lg:text-3xl">
+      <div className="about xs:w-3/5 xl:w-1/5 w-2/5 absolute flex flex-col mx-10 my-20 xs:top-20 sm:top-22 md:top-24 lg:top-52 xl:top-64">
+        <div className="font-bold text-white sm:text-md md:text-2xl lg:text-3xl xl:text-4xl">
           Love, Death &amp; Robots
         </div>
-        <div className="text-slate-200 xs:text-xs sm:text-sm md:text-md lg:text-lg font-normal">
+        <div className="text-slate-200 xs:text-xs sm:text-sm md:text-md lg:text-lg xl:text-xl">
           <p className="drop-shadow-2xl">
             A collection of animated short stories that span various genres
             including science fiction, fantasy, horror and comedy.
