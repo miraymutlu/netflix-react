@@ -3,13 +3,13 @@ import SearchIcon from "@mui/icons-material/Search";
 
 function Search() {
   return (
-    <div>
-      <span className="text-white cursor-pointer mr-60">
-        <SearchIcon className="mr-3" />
+    <div className="p-2">
+      <span className="text-white cursor-pointer object-contain">
+        <SearchIcon/>
         <input
           type="text"
           placeholder=" Movies,series,.."
-          className="bg-neutral-800 h-10 w-80 rounded-md"
+          className="bg-neutral-800 h-10 xs:w-28 sm:w-32 md:w-80 rounded-md"
         />
       </span>
     </div>

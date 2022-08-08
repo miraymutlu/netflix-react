@@ -11,7 +11,7 @@ function Buttons() {
       </button>
       <button className="px-2 py-2 bg-zinc-400 text-white rounded-md w-30 place-content-center">
         <InfoIcon />
-        <span className="ml-2 font-medium">More information</span>
+        <span className="ml-2 sm:font-sm md:font-medium lg:font-medium">More information</span>
       </button>
     </span>
   );

@@ -5,12 +5,10 @@ import Profile from "./headerComponents/Profile";
 
 const Header = () => {
   return (
-    <nav className="bg-black top-0 absolute w-full">
-      <div className="px-5 py-2 flex items-center justify-between">
+    <nav className="top-0 absolute flex justify-between w-full p-5">
         <Logo />
         <Search />
         <Profile />
-      </div>
     </nav>
   );
 };

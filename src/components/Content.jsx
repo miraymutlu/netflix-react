@@ -6,9 +6,9 @@ function Content() {
   
   return (
     <div>
-      <Movie data={data} header="New Movies" />
-      <Movie data={data} header="Keep Watching" />
-      <Movie data={data} header="You May Like" />
+      <Movie data={data.filter(movie => movie.category === "new")} header="New Movies" />
+      <Movie data={data.filter(movie => movie.category === "keep_watching")} header="Keep Watching" />
+      <Movie data={data.filter(movie => movie.category === "you_may_like")} header="You May Like" />
     </div>
   );
 }
