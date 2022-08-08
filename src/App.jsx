@@ -7,7 +7,7 @@ import "./app.css";
 
 const App = () => {
   return (
-    <div className="flex flex-col overflow-hidden bg-black">
+    <div className="flex flex-col bg-black">
       <Header />
       <Gallery />
       <Content />

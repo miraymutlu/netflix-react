@@ -9,7 +9,7 @@ function Search() {
         <input
           type="text"
           placeholder=" Movies,series,.."
-          className="bg-neutral-800 h-10 xs:w-28 sm:w-32 md:w-80 rounded-md"
+          className="text-xs bg-neutral-800 h-10 w-24 xs:w-28 sm:w-32 md:w-80 rounded-md"
         />
       </span>
     </div>
