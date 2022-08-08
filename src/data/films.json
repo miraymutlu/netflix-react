@@ -15,6 +15,11 @@
     "imageURL": "https://upload.wikimedia.org/wikipedia/tr/4/40/Sherlock_%28TV%29.jpg"
   },
   {
+    "name": "sherlocks",
+    "category":"new",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/tr/4/40/Sherlock_%28TV%29.jpg"
+  },
+  {
     "name": "mindhunter",
     "category":"keep_watching",
     "imageURL": "https://media-cdn.t24.com.tr/media/library/2020/05/1590337991205-images-8-620-x-400.jpg"
@@ -26,6 +31,11 @@
   },
   {
     "name": "ozark",
+    "category":"keep_watching",
+    "imageURL": "https://yorumguncel.com/wp-content/uploads/2022/01/ozark-4-sezon-2-kisim-ne-zaman-yayinlanacak-netflix.jpg"
+  },
+  {
+    "name": "ozaassrk",
     "category":"keep_watching",
     "imageURL": "https://yorumguncel.com/wp-content/uploads/2022/01/ozark-4-sezon-2-kisim-ne-zaman-yayinlanacak-netflix.jpg"
   },

@@ -9,7 +9,7 @@ export default function About() {
         alt=" "
         className=" w-full pt-12 relative"
       />
-      <div className="about xs:w-3/5 xl:w-1/5 w-2/5 absolute flex flex-col mx-10 my-20 xs:top-20 sm:top-22 md:top-24 lg:top-52 xl:top-54 2xl:top-60">
+      <div className=" xs:w-3/5 xl:w-1/5 w-full -mt-40 absolute flex flex-col mx-10 sm:-mt-60 2xl:-mt-96">
         <div className="font-bold text-white sm:text-md md:text-2xl lg:text-3xl xl:text-4xl">
           Love, Death &amp; Robots
         </div>
