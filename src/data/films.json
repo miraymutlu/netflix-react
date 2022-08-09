@@ -7,17 +7,22 @@
   {
     "name": "friends",
     "category":"new",
-    "imageURL": "https://i2.milimaj.com/i/milliyet/75/0x420/604b0f095542801b04134676.jpg"
+    "imageURL": "https://static.posters.cz/image/1300/kalendari/friends-i96292.jpg"
   },
   {
     "name": "sherlock",
     "category":"new",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/tr/4/40/Sherlock_%28TV%29.jpg"
+    "imageURL": "https://www.arthur-conan-doyle.com/images/f/fb/Sherlock-BBC-poster-1.jpg"
   },
   {
-    "name": "sherlocks",
+    "name": "stranger_things",
     "category":"new",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/tr/4/40/Sherlock_%28TV%29.jpg"
+    "imageURL": "https://ae01.alicdn.com/kf/HTB1vlUAOpXXXXXNXXXXq6xXFXXXZ/2899-s-cak-film-TV-ovlar-Stranger-eyler-sezon-1-24-x-36-afi.jpg_Q90.jpg_.webp"
+  },
+  {
+    "name": "la_casa_de_papel",
+    "category":"new",
+    "imageURL": "https://iaahbr.tmgrup.com.tr/2cf227/800/491/0/0/652/400?u=https://iahbr.tmgrup.com.tr/2021/12/02/la-casa-de-papel-yeni-sezon-olacak-mi-var-mi-la-casa-de-papel-5-sezon-2-kisim-ne-zaman-netflix-mujdeyi-duyurdu-1638457955915.jpg"
   },
   {
     "name": "mindhunter",
@@ -32,17 +37,22 @@
   {
     "name": "ozark",
     "category":"keep_watching",
-    "imageURL": "https://yorumguncel.com/wp-content/uploads/2022/01/ozark-4-sezon-2-kisim-ne-zaman-yayinlanacak-netflix.jpg"
+    "imageURL": "https://www.exploregeorgia.org/sites/default/files/styles/slideshow_large/public/legacy_images/ozark-1501260557.jpg?itok=cwBahgc-"
   },
   {
-    "name": "ozaassrk",
+    "name": "black_mirror",
     "category":"keep_watching",
-    "imageURL": "https://yorumguncel.com/wp-content/uploads/2022/01/ozark-4-sezon-2-kisim-ne-zaman-yayinlanacak-netflix.jpg"
+    "imageURL": "http://cdn.programme-television.ladmedia.fr/var/premiere/storage/images/tele-7-jours/news-tv/black-mirror-y-aura-t-il-un-episode-special-coronavirus-le-createur-repond-4658375/99138510-1-fre-FR/Black-Mirror-y-aura-t-il-un-episode-special-coronavirus-Le-createur-repond.jpg"
+  },
+  {
+    "name": "dark",
+    "category":"keep_watching",
+    "imageURL": "https://imgrosetta.mynet.com.tr/file/12218438/1200x824.jpg"
   },
   {
     "name": "arcane",
     "category":"you_may_like",
-    "imageURL": "https://cdn1.dotesports.com/wp-content/uploads/2022/05/26102624/Arcane_serialmind.jpg"
+    "imageURL": "https://metro.co.uk/wp-content/uploads/2021/11/EN-US_Arcane_Payoff_Horizontal_Wallpaper_1920x1200_RGB_W1.1-7357.jpg?quality=90&strip=all"
   },
   {
     "name": "community",
@@ -50,18 +60,18 @@
     "imageURL": "https://static.next-episode.net/tv-shows-images/huge/community.jpg"
   },
   {
-    "name": "bir-baskadir",
+    "name": "crown",
     "category":"you_may_like",
-    "imageURL": "https://radyobilkent.com/assets/img/blogimg/birbaskadir-UTiT_cover.jpg"
-  },
-  {
-    "name": "when-they-see-us",
-    "category":"you_may_like",
-    "imageURL": "https://s3.scoopwhoop.com/anj2/5d021e8cd0aa383f987969f1/279f7754-a9bf-4b5a-906b-b954224de08f.jpg"
+    "imageURL": "https://resize.programme-television.ladmedia.fr/r/670,670/img/var/premiere/storage/images/tele-7-jours/news-tv/the-crown-encore-prolongee-sur-netflix-la-direction-a-fait-modifier-la-fin-de-la-saison-6-4690884/99905765-1-fre-FR/The-Crown-encore-prolongee-sur-Netflix-La-direction-a-fait-modifier-la-fin-de-la-saison-6.jpg"
   },
   {
     "name": "haunting-of-hill-house",
     "category":"you_may_like",
     "imageURL": "https://images-na.ssl-images-amazon.com/images/I/91s3bvLAHJL._RI_.jpg"
+  },
+  {
+    "name": "umbrella_academy",
+    "category":"you_may_like",
+    "imageURL": "https://www.pinkvilla.com/files/styles/amp_metadata_content_image/public/the_umbrella_academy_s3.jpeg"
   }
 ]
