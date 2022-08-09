@@ -8,8 +8,8 @@ function Search() {
         <SearchIcon/>
         <input
           type="text"
-          placeholder=" Movies,series,.."
-          className="text-xs bg-neutral-800 h-10 w-24 xs:w-28 sm:w-32 md:w-80 rounded-md"
+          placeholder=" Movies, series, ..."
+          className="text-xs sm:text-sm md:text-md lg:text-lg xl:text-xl bg-neutral-800 h-10 w-24 xs:w-28 sm:w-32 md:w-80 rounded-md"
         />
       </span>
     </div>

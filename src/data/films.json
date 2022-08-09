@@ -5,14 +5,9 @@
     "imageURL": "https://cdn.milenio.com/uploads/media/2022/05/24/better-call-saul-netflix.jpg"
   },
   {
-    "name": "friends",
+    "name": "himym",
     "category":"new",
-    "imageURL": "https://static.posters.cz/image/1300/kalendari/friends-i96292.jpg"
-  },
-  {
-    "name": "sherlock",
-    "category":"new",
-    "imageURL": "https://www.arthur-conan-doyle.com/images/f/fb/Sherlock-BBC-poster-1.jpg"
+    "imageURL": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BEA544D7476F6C33E23CB73494F462BAF5F9A247B41B335F74094773F4112C03/scale?width=1200&aspectRatio=1.78&format=jpeg"
   },
   {
     "name": "stranger_things",
@@ -23,6 +18,11 @@
     "name": "la_casa_de_papel",
     "category":"new",
     "imageURL": "https://iaahbr.tmgrup.com.tr/2cf227/800/491/0/0/652/400?u=https://iahbr.tmgrup.com.tr/2021/12/02/la-casa-de-papel-yeni-sezon-olacak-mi-var-mi-la-casa-de-papel-5-sezon-2-kisim-ne-zaman-netflix-mujdeyi-duyurdu-1638457955915.jpg"
+  },
+  {
+    "name": "breaking_bad",
+    "category":"new",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezyK2wKoCHiQ-tA2H01TYWkUfwheB68RIhR-tSoDhtU8Uyq02U2onP0evVb6DGMFGR6s&usqp=CAU"
   },
   {
     "name": "mindhunter",
@@ -60,9 +60,9 @@
     "imageURL": "https://static.next-episode.net/tv-shows-images/huge/community.jpg"
   },
   {
-    "name": "crown",
+    "name": "archer",
     "category":"you_may_like",
-    "imageURL": "https://resize.programme-television.ladmedia.fr/r/670,670/img/var/premiere/storage/images/tele-7-jours/news-tv/the-crown-encore-prolongee-sur-netflix-la-direction-a-fait-modifier-la-fin-de-la-saison-6-4690884/99905765-1-fre-FR/The-Crown-encore-prolongee-sur-Netflix-La-direction-a-fait-modifier-la-fin-de-la-saison-6.jpg"
+    "imageURL": "https://images6.alphacoders.com/605/thumb-1920-605824.jpg"
   },
   {
     "name": "haunting-of-hill-house",
