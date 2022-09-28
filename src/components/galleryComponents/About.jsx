@@ -7,7 +7,7 @@ export default function About() {
       <img
         src="https://frpnet.net/wp-content/uploads/2022/05/love-death-robots-3-sezon-fragmani-3.jpeg"
         alt=" "
-        className=" w-full pt-12 relative"
+        className="w-full pt-12 relative"
       />
       <div className="text-xs w-2/5 xs:w-3/5 xl:w-1/5 -mt-52 absolute flex flex-col mx-10 sm:-mt-60 xl:-mt-72 2xl:-mt-96">
         <div className="font-bold text-xl text-white sm:text-md md:text-2xl lg:text-3xl xl:text-4xl">

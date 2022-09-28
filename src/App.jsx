@@ -1,18 +1,14 @@
-import Header from "./components/Header";
-import Gallery from "./components/Gallery";
-import Content from "./components/Content";
-import Footer from "./components/Footer";
-
+import Home from "./components/Home";
 import "./app.css";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 const App = () => {
   return (
-    <div className="flex flex-col bg-black">
-      <Header />
-      <Gallery />
-      <Content />
-      <Footer />
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home />}></Route>
+      </Routes>
+    </Router>
   );
 };
 
